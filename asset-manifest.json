@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/memory_card_game/static/css/main.5b0d69fb.css",
+    "main.js": "/memory_card_game/static/js/main.f2e74e4b.js",
+    "static/media/hr.svg": "/memory_card_game/static/media/hr.89b8c8af46eef412f1cd0433ed3c7bc5.svg",
+    "static/media/HyperspaceBold-GM0g.ttf": "/memory_card_game/static/media/HyperspaceBold-GM0g.52d8ed2ee78b060a65b3.ttf",
+    "static/media/eg.svg": "/memory_card_game/static/media/eg.de66162867f147fe1ca131dfd82467c2.svg",
+    "static/media/nf.svg": "/memory_card_game/static/media/nf.96d57c56bd4feba75b0ec87da9e0e133.svg",
+    "static/media/vu.svg": "/memory_card_game/static/media/vu.f55d4352a21eeff37a90f0aeb663cfb1.svg",
+    "static/media/nz.svg": "/memory_card_game/static/media/nz.c13a64ec70248ccc41d6f5105b52c3d3.svg",
+    "static/media/si.svg": "/memory_card_game/static/media/si.e0de0e96aded64134bcff3acacc00a43.svg",
+    "static/media/au.svg": "/memory_card_game/static/media/au.6734a27a2f2a54332a4c8517deb08876.svg",
+    "static/media/sk.svg": "/memory_card_game/static/media/sk.031f7d1211a3a7f59010135d65c54d9b.svg",
+    "static/media/za.svg": "/memory_card_game/static/media/za.cfcf99d22861d82c56582197f4d2ffc1.svg",
+    "index.html": "/memory_card_game/index.html",
+    "static/media/ps.svg": "/memory_card_game/static/media/ps.385ac1bdebf6347dcdfe796860404371.svg",
+    "static/media/is.svg": "/memory_card_game/static/media/is.3c4b4181458260fed9fc1d00c2c7c3a0.svg",
+    "static/media/sd.svg": "/memory_card_game/static/media/sd.3050433e2767fb821c5d6f787ce65388.svg",
+    "static/media/sn.svg": "/memory_card_game/static/media/sn.5d2dde7343ab4f2028909cf2ebe29186.svg",
+    "static/media/no.svg": "/memory_card_game/static/media/no.b9cc4fcdf51eb234607e1ffa96e3ff63.svg",
+    "static/media/fr.svg": "/memory_card_game/static/media/fr.b377e77885d6a93660dcaf59f68ab2af.svg",
+    "static/media/ie.svg": "/memory_card_game/static/media/ie.0542b94612db83a2f5502811528ac249.svg",
+    "static/media/it.svg": "/memory_card_game/static/media/it.08db2cd122d5f99494dd35c2cfb10784.svg",
+    "static/media/mq.svg": "/memory_card_game/static/media/mq.df0d7ef139caab67f17c1a3605087555.svg",
+    "static/media/ru.svg": "/memory_card_game/static/media/ru.7e04b988972d41f5c36902a31b818119.svg",
+    "static/media/ci.svg": "/memory_card_game/static/media/ci.c7146bc39c724cd34b46e01e2487c78a.svg",
+    "static/media/ml.svg": "/memory_card_game/static/media/ml.fa530666ce9e170dc6cdcc03b6ef2f68.svg",
+    "static/media/ye.svg": "/memory_card_game/static/media/ye.67bb215c4226cd5a32aae6c7d319634b.svg",
+    "static/media/ng.svg": "/memory_card_game/static/media/ng.f29450b9f8b2f04e96aaa39902099e9c.svg",
+    "static/media/nl.svg": "/memory_card_game/static/media/nl.cfe72ae0b3d6d848523400f70f59efe7.svg",
+    "main.5b0d69fb.css.map": "/memory_card_game/static/css/main.5b0d69fb.css.map",
+    "main.f2e74e4b.js.map": "/memory_card_game/static/js/main.f2e74e4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0d69fb.css",
+    "static/js/main.f2e74e4b.js"
+  ]
+}
